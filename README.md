@@ -2,10 +2,10 @@
 <h1 align="center">                                                       YOUR TASK MANAGER APPLICATION</h1>	
 
  <h2 align="center">                                                              TASK OVERVIEW</h2>
-  <li>ALL TASKS(1)📚</li>     
-<li>HIGH PRIORITY TASKS(2)🔴</li>
-<li>RECENT TASKS(3)📥</li>
-<li>PROCESS QUEUE(4)🫷🏻🫸🏻</li>
+  <li>ALL TASKS--[1]📚</li>     
+<li>HIGH PRIORITY TASKS--[2]🔴</li>
+<li>RECENT TASKS--[3]📥</li>
+<li>PROCESS QUEUE--[4]🫷🏻🫸🏻</li>
 
 ## FEATURES
 👉🏻PRINT THE TASKS----1|2|3|4<br/>
@@ -27,9 +27,8 @@
 
 ## NOW Comes another imp feature  which is DELETION❌
 ![image](https://github.com/user-attachments/assets/c9e8c9c6-7fad-43d0-9367-09e87d315f7a)
-
 <br/>
-<br/>
+## FINALLY🎉
 ![image](https://github.com/user-attachments/assets/adb7346e-e239-4e5a-8bd4-1f42695e0b3e)
 
 
